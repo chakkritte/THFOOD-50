@@ -4,6 +4,8 @@ Fine-Grained Thai Food Image Classification Datasets
 
 THFOOD-50 containing 15,770 images of 50 famous Thai dishes.
 
+## Download:
+
 ## License
 
 THFOOD-50 for **non-commercial research/educational** use.
@@ -40,9 +42,6 @@ If you use THFOOD-50 dataset in your research, please cite our paper:
       pages={29--33},
       year={2018}
     }
-
-
-## Download:
 
 ## Paper
 
