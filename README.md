@@ -4,17 +4,6 @@ Fine-Grained Thai Food Image Classification Datasets
 
 THFOOD-50 containing 15,770 images of 50 famous Thai dishes.
 
-## Download:
-
-## Paper
-
- 1. NU-InNet: Thai food image recognition using convolutional neural networks on smartphone [Paper](https://journal.utem.edu.my/index.php/jtec/article/download/2436/1521) [Code](https://github.com/chakkritte/NU-InNet)
- 2. Accuracy improvement of Thai food image recognition using deep convolutional neural networks [Paper](https://ieeexplore.ieee.org/abstract/document/8075874/)
- 3. Nu-resnet: Deep residual networks for thai food image recognition [Paper](https://journal.utem.edu.my/index.php/jtec/article/download/3572/2467) [Code](https://github.com/chakkritte/NU-ResNet)
-
-#### Examples of Thai food images in the THFOOD-50 dataset
-![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/THFOOD.png)
-
 ## License
 
 THFOOD-50 for **non-commercial research/educational** use.
@@ -51,3 +40,15 @@ If you use THFOOD-50 dataset in your research, please cite our paper:
       pages={29--33},
       year={2018}
     }
+
+
+## Download:
+
+## Paper
+
+ 1. NU-InNet: Thai food image recognition using convolutional neural networks on smartphone [Paper](https://journal.utem.edu.my/index.php/jtec/article/download/2436/1521) [Code](https://github.com/chakkritte/NU-InNet)
+ 2. Accuracy improvement of Thai food image recognition using deep convolutional neural networks [Paper](https://ieeexplore.ieee.org/abstract/document/8075874/)
+ 3. Nu-resnet: Deep residual networks for thai food image recognition [Paper](https://journal.utem.edu.my/index.php/jtec/article/download/3572/2467) [Code](https://github.com/chakkritte/NU-ResNet)
+
+#### Examples of Thai food images in the THFOOD-50 dataset
+![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/THFOOD.png)
