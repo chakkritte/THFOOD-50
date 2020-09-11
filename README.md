@@ -6,6 +6,8 @@ THFOOD-50 containing 15,770 images of 50 famous Thai dishes.
 
 ## Download:
 
+[THFOOD-50 v1 on Google Drive](https://drive.google.com/drive/folders/1800gi-etXfpf-rolxf0W90uZyojBSqcq?usp=sharing)
+
 ## License
 
 THFOOD-50 for **non-commercial research/educational** use.
