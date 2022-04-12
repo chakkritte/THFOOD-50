@@ -36,7 +36,7 @@ If you use THFOOD-50 dataset in your research, please cite our paper:
     }
     
     @article{termritthikun2018nu,
-      title="{Nu-Resnet: Deep residual networks for Thai food image recognition}",
+      title="{Nu-ResNet: Deep residual networks for Thai food image recognition}",
       author={Termritthikun, Chakkrit and Kanprachar, Surachet},
       journal={Journal of Telecommunication, Electronic and Computer Engineering (JTEC)},
       volume={10},
