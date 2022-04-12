@@ -17,7 +17,7 @@ THFOOD-50 for **non-commercial research/educational** use.
 If you use THFOOD-50 dataset in your research, please cite our paper:
 
     @article{termritthikun2017nu,
-      title={NU-InNet: Thai food image recognition using convolutional neural networks on smartphone},
+      title="{NU-InNet: Thai food image recognition using convolutional neural networks on smartphone}",
       author={Termritthikun, Chakkrit and Muneesawang, Paisarn and Kanprachar, Surachet},
       journal={Journal of Telecommunication, Electronic and Computer Engineering (JTEC)},
       volume={9},
@@ -27,7 +27,7 @@ If you use THFOOD-50 dataset in your research, please cite our paper:
     }
     
     @inproceedings{termritthikun2017accuracy,
-      title={Accuracy improvement of Thai food image recognition using deep convolutional neural networks},
+      title="{Accuracy improvement of Thai food image recognition using deep convolutional neural networks}",
       author={Termritthikun, Chakkrit and Kanprachar, Surachet},
       booktitle={2017 international electrical engineering congress (IEECON)},
       pages={1--4},
@@ -36,7 +36,7 @@ If you use THFOOD-50 dataset in your research, please cite our paper:
     }
     
     @article{termritthikun2018nu,
-      title={Nu-resnet: Deep residual networks for thai food image recognition},
+      title="{Nu-Resnet: Deep residual networks for Thai food image recognition}",
       author={Termritthikun, Chakkrit and Kanprachar, Surachet},
       journal={Journal of Telecommunication, Electronic and Computer Engineering (JTEC)},
       volume={10},
